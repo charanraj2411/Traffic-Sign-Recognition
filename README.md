@@ -18,6 +18,9 @@ Also the final validation is performed again on the model with a different set o
 After  validation we created a Graphical User Interace which takes the input as traffic.classifier.h5 model and creates a UI which accepts inputs from the user and predicts the sign.
 
 Model Training file : Traffic Sign Recognition System.ipynb
+
+
+
 GUI file            : GUI.ipynb
 
 
